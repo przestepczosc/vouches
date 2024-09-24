@@ -1,3 +1,3 @@
-window.onload = function() {
-    window.location.href = "https://www.myvouch.es/kropel";
-};
+setTimeout(function() {
+        window.location.href = "https://myvouch.es/kropel";
+    }, 3000);
